@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiandulcey/io-js-start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristiandulcey/io-js-start/issues"
+  },
+  "homepage": "https://github.com/cristiandulcey/io-js-start#readme"
 }
